@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnaCenit
-- 👀 I’m interested in edit pages from documentation
-- 🌱 I’m currently learning about integration flows
-- 💞️ I’m looking to collaborate on Cenit documentation
+- 👀 I’m interested in testing issues for FIRSTDUE.
+- 🌱 I’m currently learning about testing processes.
+- 💞️ I’m looking to collaborate on QA. 
 - 📫 How to reach me: please send me a message to anamariag292@gmail.com 
 
 <!---
